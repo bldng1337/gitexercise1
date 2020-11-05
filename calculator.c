@@ -2,7 +2,7 @@
 
 /**
 * Simple calculator
-/
+*/
 int main(){
     float num1,num2;
     float ans;
